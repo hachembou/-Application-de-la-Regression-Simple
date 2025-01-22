@@ -1,5 +1,5 @@
 # -Application-de-la-Regression-en-machine learning
-#in frensh
+# in frensh
 
 Simple Linear Regression
 
